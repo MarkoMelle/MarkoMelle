@@ -28,7 +28,7 @@ I am an aspiring front-end developer<img src="https://media.giphy.com/media/WUlp
 
 ![codewars](https://www.codewars.com/users/Marko%20Melle/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
