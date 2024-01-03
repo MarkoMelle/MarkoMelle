@@ -25,7 +25,8 @@ I am an aspiring front-end developer<img src="https://media.giphy.com/media/WUlp
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Marko%20Melle/badges/large)
+![codewars](https://www.codewars.com/users/Marko%20Melle/badges/large)  
+[![LeetCode user MarkoMelle](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkoMelle&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkoMelle/)
 
 ### ⚙️ GitHub statistics:
 
