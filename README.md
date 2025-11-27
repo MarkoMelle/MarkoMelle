@@ -1,12 +1,3 @@
-# Hello, my name is Marko!
-
----
-
-### 👨‍💻 About Me:
-I am an aspiring front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began with a comprehensive 20-month course in front-end development, which I completed in December 2023. This intensive program was my stepping stone into the world of web technologies. During my training, I developed a strong foundation in various front-end technologies and tools, enabling me to create responsive and user-friendly websites. I am now excited to apply my skills in a professional environment and continue growing as a developer!
-
----
-
 ### 💻 Technology Stack:
 
 <div>
